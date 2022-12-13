@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Surgery.unity
+    guid: 4d55ac28c66fe4892b6f53605c33d923
+  - enabled: 0
+    path: Assets/CobleGames/Scenes/SampleScene.unity
+    guid: 488b569cd43a487498aed4cf5d58f8b0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 941ea75dd4ca24f67b9e7be783628aa7, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 76099437c3ee48742b54d35b335de4f7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d031a1cd1701145f2a3540ed649baeef, type: 2}
